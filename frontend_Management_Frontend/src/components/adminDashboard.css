@@ -1,0 +1,19 @@
+    
+  .btnAddd {
+    background: conic-gradient(from 208.67deg at 9.44% -12.5%, #5ee4bc 0deg, #f3f3f3 123.75deg, #a8e5d6 234.38deg, #3EFFC4 360deg);
+    border: 3px solid rgba(0, 0, 0, 0.24);
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    box-sizing: border-box;
+    width: 140px;
+    height: 45px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    line-height: 21px;
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 90px;
+  
+}
+  
