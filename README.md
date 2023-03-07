@@ -1,1 +1,6 @@
 # Employee-Management
+
+to run the project,
+install npm for both backend and frontend,
+open the both backend and frontend terminals seperately and give "npm start" for both to run.
+THANK YOU!
